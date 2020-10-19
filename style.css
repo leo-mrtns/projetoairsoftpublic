@@ -9,21 +9,21 @@ header{
   width: 100%;
   height: 200px;
 }
-#menu ul{
+nav ul{
   margin: 0;
   background-color: #000000;
   list-style: none;
 }
-#menu ul li{
+nav ul li{
   display: inline;
 }
-#menu ul li a{
+nav ul li a{
   padding: 10px 80px;
   display: inline-block;
   color: white;
   text-decoration: none;
 }
-#menu ul li a:hover{
+nav ul li a:hover{
   color: teal;
 }
 #logo_toxica {
